@@ -1,7 +1,7 @@
 # Les_Delices_Africain_Front
 
 ## Description
-Les Délices Africain est un site web de restaurant créé à l'aide de ReactJS, un framework de développement front-end. Le site web a été conçu pour aider les utilisateurs à trouver des informations sur le restaurant. Le site web utilise une API tierce pour récupérer des informations sur le restaurant et les afficher aux utilisateurs.
+Les Délices Africain est un site web de restaurant créé à l'aide de ReactJS, un framework de développement front-end. Le site web a été conçu pour aider les utilisateurs à trouver des informations sur le restaurant. 
 
 ## Installation
  Pour commencer, vous devez installer la bonne version de node (version 18.16.0) pour que le code fonctionne correctement
