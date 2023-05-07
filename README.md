@@ -1,8 +1,18 @@
 # Les_Delices_Africain_Front
 
-Description du projet : Pour commencer, vous devez installer la bonne version de node (version 18.16.0) pour que le code fonctionne correctement. 
-Ce projet react a été réalisé sur visual studio code
-Pour la flexibilité du code avec react, nous avons utilisé jsx
-Pour l'éxecution du projet, entrer la commande :  npm install
-Ensuite npm start pour lancer le serveur react
-et biiiiimmmmm, le projet est excuté!!
+## Description
+Les Délices Africain est un site web de restaurant créé à l'aide de ReactJS, un framework de développement front-end. Le site web a été conçu pour aider les utilisateurs à trouver des informations sur le restaurant. Le site web utilise une API tierce pour récupérer des informations sur le restaurant et les afficher aux utilisateurs.
+
+## Installation
+ Pour commencer, vous devez installer la bonne version de node (version 18.16.0) pour que le code fonctionne correctement
+ 
+Voici les étapes à suivre pour installer le site web :
+
+- Cloner le dépôt Git : `git clone https://github.com/Ashjoyce/Les_Delices_Africain_Front.git
+- Installer les dépendances : `npm install`
+
+ Démarrer le serveur de développement : `npm start`
+
+## Utilisation
+
+Une fois que le serveur de développement est démarré, vous pouvez accéder au site web en ouvrant votre navigateur et en entrant l'URL suivante : `http://localhost:3000/`.
